@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: jackson-core-2.5.4.jar spring-test-4.1.7.RELEASE.jar sprin
+ g-beans-4.1.7.RELEASE.jar logback-core-1.1.1.jar mybatis-3.3.0.jar sp
+ ring-jdbc-4.1.7.RELEASE.jar commons-logging-1.2.jar mysql-connector-j
+ ava-5.1.35.jar mybatis-spring-1.2.3.jar logback-classic-1.1.1.jar jav
+ ax.servlet-api-3.1.0.jar spring-webmvc-4.1.7.RELEASE.jar jackson-anno
+ tations-2.5.0.jar standard-1.1.2.jar spring-context-4.1.7.RELEASE.jar
+  spring-expression-4.1.7.RELEASE.jar jackson-databind-2.5.4.jar sprin
+ g-core-4.1.7.RELEASE.jar aopalliance-1.0.jar spring-web-4.1.7.RELEASE
+ .jar jstl-1.2.jar spring-tx-4.1.7.RELEASE.jar spring-aop-4.1.7.RELEAS
+ E.jar slf4j-api-1.7.12.jar c3p0-0.9.1.1.jar
+
